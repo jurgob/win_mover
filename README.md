@@ -5,7 +5,7 @@ A window resizer scripts for mac os (you can resize your windows with an keyboar
 
 this script should be used in combination with an external shortcut manager like spark
 
-install it with sparc: 
+install it with spark: 
 
 chackout this project
 
