@@ -6,6 +6,10 @@ You can resize the current window to full screen size, or you can resize and mov
 
 this script should be used in combination with an external shortcut manager like Spark
 
+basically, you can move resize your windows using your keyboard like this:
+
+![alt tag](https://raw.githubusercontent.com/jurgob/win_mover/master/readme_files/win_mover.gif)
+
 ##install it with Spark: 
 
 checkout this project (from your terminal, type git clone https://github.com/jurgob/win_mover.git)
@@ -19,5 +23,8 @@ install Spark and launch it
 double click on "AppleScript" on Spark's left menu
 
 Copy and Paste one of the apple-scripts that you can find on the checkouted project)
-(e.g. copy MoveRight.scpt script name it "MoveRight and assign it to ctrl+alt+cmq+right-arrow)
+(e.g. open MoveFull.scpt script, create a new shortcut naming it "MoveFull, copye and paste MoveFull.scpt and assign it to ctrl+alt+cmq+down-arrow, look the image bellow)
+
+![alt tag](https://raw.githubusercontent.com/jurgob/win_mover/master/readme_files/create_shortcut_spark.png)
+
 
