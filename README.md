@@ -27,4 +27,8 @@ Copy and Paste one of the apple-scripts that you can find on the checkouted proj
 
 ![alt tag](https://raw.githubusercontent.com/jurgob/win_mover/master/readme_files/create_shortcut_spark.png)
 
+## first time usage:
+on the first time you try to run the script, MacOs could rise an error.
+To fix it you should go to "System Preferences" -> "security and Privacy" and then be sure that under "Accessibility" menu on "Privacy" tag "Spark Deamon" is checked". If it's not, press the padlock  and then check "Spark Deamon" voice
 
+![alt tag](https://raw.githubusercontent.com/jurgob/win_mover/master/readme_files/privacy_settings.png)
