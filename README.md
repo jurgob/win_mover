@@ -6,7 +6,7 @@ You can resize the current window to full screen size, or you can resize and mov
 
 this script should be used in combination with an external shortcut manager like spark
 
-install it with spark: 
+##install it with spark: 
 
 chackout this project
 
