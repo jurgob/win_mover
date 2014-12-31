@@ -19,5 +19,7 @@ install Spark and launch it
 double click on "AppleScript" on Spark's left menu
 
 Copy and Paste one of the apple-scripts that you can find on the checkouted project)
-(e.g. copy MoveRight.scpt script name it "MoveRight and assign it to ctrl+alt+cmq+right-arrow)
+(e.g. copy MoveRight.scpt script name it "MoveRight and assign it to ctrl+alt+cmq+right-arrow, look the image bellow)
+![alt tag](https://raw.githubusercontent.com/jurgob/win_mover/master/readme_files/create_shortcut_spark.png)
+
 
